@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning ** - Python - **
 
-- 💬 Ask me about ** JS and pretty much anything you want to ask.**
 - ☑️ My Repos -> (https://github.com/MuarremTekin)
 
 <h3 align="left">
