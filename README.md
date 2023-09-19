@@ -66,21 +66,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
 </p>
-
-<!-- Most Used Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BRN33&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="BRN33" /></p>
-<!-- Github Stats -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BRN33&show_icons=true&theme=tokyonight&locale=en" alt="BRN33" /></p>
-
-<!-- Contrubutions Streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BRN33&theme=dark" alt="BRN33" /></p>
-
-<!-- Github Profile Trophies  -->
-<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/BRN33" alt="BRN33" /></a> </p>
- -->
-![](https://komarev.com/ghpvc/?username=BRN33&color=green&style=flat-square)
-<!--<small>
-<a href="https://rahuldkjain.github.io/gh-profile-readme-generator">Made with -><a/>
-</small>
-
